@@ -23,7 +23,7 @@ I created this project to deepen my understanding of **computational math** and 
 ## 🔹 How to Run
 1. Clone the repository:  
    git clone https://github.com/Misosoup97/GameOfLife.git  
-   cd GameOfLife  
+   cd game-of-life  
 
 2. Compile and run:  
    javac Main.java  
